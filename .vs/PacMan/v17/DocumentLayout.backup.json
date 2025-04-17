@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\pacman\\pacman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|solutionrelative:pacman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\pacman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|solutionrelative:pacman\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\pacman\\pacman\\loopstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|solutionrelative:pacman\\loopstream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\pacman\\pacman\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|solutionrelative:pacman\\soundeffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\pacman\\pacman\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|solutionrelative:pacman\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|c:\\users\\yu150\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\c#\\pacman\\pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BF5041-715D-4179-B525-9B6FC8611A26}|PacMan\\PacMan.csproj|solutionrelative:pacman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Program.cs",
+              "RelativeDocumentMoniker": "PacMan\\Program.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Program.cs",
+              "RelativeToolTip": "PacMan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:38:42.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Form1.cs",
+              "RelativeDocumentMoniker": "PacMan\\Form1.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Form1.cs",
+              "RelativeToolTip": "PacMan\\Form1.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAAAAABoCAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:35:54.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Form1.cs",
+              "RelativeDocumentMoniker": "PacMan\\Form1.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "RelativeToolTip": "PacMan\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T10:34:18.236Z",
+              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sound.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Sound.cs",
+              "RelativeDocumentMoniker": "PacMan\\Sound.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\Sound.cs",
+              "RelativeToolTip": "PacMan\\Sound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:35:10.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoopStream.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\LoopStream.cs",
+              "RelativeDocumentMoniker": "PacMan\\LoopStream.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\LoopStream.cs",
+              "RelativeToolTip": "PacMan\\LoopStream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:35:12.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoundEffect.cs",
+              "DocumentMoniker": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\SoundEffect.cs",
+              "RelativeDocumentMoniker": "PacMan\\SoundEffect.cs",
+              "ToolTip": "C:\\Users\\yu150\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\C#\\PacMan\\PacMan\\SoundEffect.cs",
+              "RelativeToolTip": "PacMan\\SoundEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T17:35:14.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
