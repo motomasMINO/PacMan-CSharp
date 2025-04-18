@@ -30,6 +30,10 @@ https://github.com/motomasMINO/PacMan-Java
    
    ターミナルまたはコマンドプロンプトで以下を実行:
    ```sh
+   git clone https://github.com/motomasMINO/PacMan-CSharp.git
+
+   cd PacMan-CSharp
+   
    cd PacMan
 
    dotnet run
