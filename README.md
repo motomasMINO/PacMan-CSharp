@@ -30,7 +30,9 @@ https://github.com/motomasMINO/PacMan-Java
    
    ターミナルまたはコマンドプロンプトで以下を実行:
    ```sh
-   dotnet run --project PacMan
+   cd PacMan
+
+   dotnet run
    ```
 
 ## 📜 ライセンス
