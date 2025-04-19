@@ -33,11 +33,14 @@ https://github.com/motomasMINO/PacMan-Java
    git clone https://github.com/motomasMINO/PacMan-CSharp.git
 
    cd PacMan-CSharp
-   
+   ```
+3. **アプリを起動**
+   ```sh
    cd PacMan
 
    dotnet run
    ```
+   ※ 起動後、すぐにゲームがスタートします。
 
 ## 📜 ライセンス
 このプロジェクトはMIT Licenseのもとで公開されています。
