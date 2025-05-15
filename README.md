@@ -46,7 +46,7 @@ https://github.com/motomasMINO/PacMan-Java
 このプロジェクトはMIT Licenseのもとで公開されています。
 
 ## 📧 お問い合わせ
-- Github: motomasMINO
+- GitHub: motomasMINO
 - Email: yu120615@gmail.com
 
   バグ報告や改善点・機能追加の提案はPull RequestまたはIssueで受け付けています!
